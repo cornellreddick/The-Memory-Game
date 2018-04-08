@@ -1,0 +1,10 @@
+c:\users\corne\source\repos\The Memory Game\The Memory Game\bin\Debug\The Memory Game.exe.config
+c:\users\corne\source\repos\The Memory Game\The Memory Game\bin\Debug\The Memory Game.exe
+c:\users\corne\source\repos\The Memory Game\The Memory Game\bin\Debug\The Memory Game.pdb
+c:\users\corne\source\repos\The Memory Game\The Memory Game\obj\Debug\The Memory Game.csprojResolveAssemblyReference.cache
+c:\users\corne\source\repos\The Memory Game\The Memory Game\obj\Debug\The_Memory_Game.Form1.resources
+c:\users\corne\source\repos\The Memory Game\The Memory Game\obj\Debug\The_Memory_Game.Properties.Resources.resources
+c:\users\corne\source\repos\The Memory Game\The Memory Game\obj\Debug\The Memory Game.csproj.GenerateResource.Cache
+c:\users\corne\source\repos\The Memory Game\The Memory Game\obj\Debug\The Memory Game.csproj.CoreCompileInputs.cache
+c:\users\corne\source\repos\The Memory Game\The Memory Game\obj\Debug\The Memory Game.exe
+c:\users\corne\source\repos\The Memory Game\The Memory Game\obj\Debug\The Memory Game.pdb
